@@ -5,10 +5,10 @@ This project involves implementing an Active Noise Cancellation (ANC) system sui
 microphone sensing. And from the result of time-frequency analysis, I found that both the fundamental
 frequency and its harmonics can be cancel after turning on the active mode.
 - Demo Video link: https://youtu.be/9RYAqv_bg7c?si=CvDHYNch1ibrG2lh  
-- Report: Please refer to "report.pdf" for detail descriptions  
+- Report: Please refer to [report.pdf](./report.pdf) for detail descriptions  
 
 ## Replicate Guide
-### I.File organization in "codes" folder:
+### I.File organization:
 
 	A.Folder "Final"
 		-Folder "Core"
